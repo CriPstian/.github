@@ -1,0 +1,8 @@
+{
+  "name": "CriPstian Organization Workflow",
+  "description": "CriPstian Organization CI workflow template",
+  "iconName": "capy",
+  "categories": [
+    "Kotlin", "Java"
+  ]
+}
